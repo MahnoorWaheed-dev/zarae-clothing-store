@@ -27,6 +27,16 @@ The design focuses on clarity, soft transitions, and a luxurious feel, ensuring 
 
 ---
 
+## 📸 Screenshots
+
+### 🌞 Light Mode
+![Dark Mode](./screenshots/zarae-dark-mode.png)
+
+### 🌙 Dark Mode
+![Light Mode](./screenshots/zarae-light-mode.png)
+
+---
+
 ## 👗 Website Sections
 
 ### ✨ Hero Section
@@ -88,17 +98,6 @@ Clean and minimal, keeping the focus on usability and navigation.
 * HTML5
 * CSS3
 * JavaScript
-
----
-
-
-## 📸 Screenshots
-
-### 🌞 Light Mode
-![Light Mode](./screenshots/zarae-dark-mode.png)
-
-### 🌙 Dark Mode
-![Dark Mode](./screenshots/zarae-light-mode.png)
 
 ---
 
