@@ -29,10 +29,10 @@ The design focuses on clarity, soft transitions, and a luxurious feel, ensuring 
 
 ## 📸 Screenshots
 
-### 🌞 Light Mode
+### 🌙 Dark Mode
 ![Dark Mode](./screenshots/zarae-dark-mode.png)
 
-### 🌙 Dark Mode
+### 🌞 Light Mode
 ![Light Mode](./screenshots/zarae-light-mode.png)
 
 ---
